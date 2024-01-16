@@ -1,0 +1,6 @@
+body { font-family: 'Pretendard', sans-serif; font-size: initial; letter-spacing: -.3px; } 
+
+* { margin: 0; padding: 0; }
+
+[class*="flex"] { display: flex; align-items: center; }
+.flex-fdc { flex-direction: column; align-items: start; justify-content: center; }
